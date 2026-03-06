@@ -20,14 +20,14 @@
 
 ---
 
-# 💼 Experience
+# Experience
 
 ### Product Intern – SRM University AP
 **May 2024 – Aug 2024**
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -86,7 +86,7 @@
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -98,7 +98,7 @@
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="left">
 
