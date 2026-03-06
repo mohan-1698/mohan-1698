@@ -10,13 +10,13 @@
 
 ---
 
-# 🚀 About Me
+#  About Me
 
-- 🎓 B.Tech Computer Science @ **SRM University AP**
-- 💻 Product Intern (Frontend / Full Stack) – Alumni Portal Development
-- 🔐 Interested in **Cybersecurity, Cryptography, Secure Systems & Vulnerability Analysis**
-- ⚛️ Building applications using **React.js and modern web technologies**
-- 🧠 Exploring **AI APIs, Security Monitoring, Blockchain concepts, and System Design**
+- B.Tech Computer Science @ **SRM University AP**
+- Product Intern (Frontend / Full Stack) – Alumni Portal Development
+- Interested in **Cybersecurity, Cryptography, Secure Systems & Vulnerability Analysis**
+- Building applications using **React.js and modern web technologies**
+- Exploring **AI APIs, Security Monitoring, Blockchain concepts, and System Design**
 
 ---
 
