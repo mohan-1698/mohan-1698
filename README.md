@@ -89,11 +89,7 @@
 # GitHub Stats
 
 <p align="center">
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-1698&theme=tokyonight" />
-
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-1698&theme=tokyonight" />
 </p>
 
 ---
