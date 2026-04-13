@@ -89,8 +89,16 @@
 # GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-1698&theme=tokyonight" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mohan-1698&theme=aura&hide_border=false" />
 </p>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohan-1698&theme=react-dark&hide_border=false&area=true" />
+</div>
 
 ---
 
